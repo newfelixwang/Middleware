@@ -1,0 +1,12 @@
+#======================== 开发环境====================================
+
+server:
+  port: 8080
+spring:
+  application:
+    name: shardingsphere-example #应用名称
+  mvc: #启动初始化servletdispatcher
+    servlet:
+      load-on-startup: 100
+  main:
+    allow-bean-definition-overriding: true #名称重复直接覆盖

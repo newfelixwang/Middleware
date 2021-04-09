@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Middleware.iml" filepath="$PROJECT_DIR$/.idea/Middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingspheres-example/shardingspheres-example.iml" filepath="$PROJECT_DIR$/shardingspheres-example/shardingspheres-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingspheres-jdbc/shardingspheres-jdbc.iml" filepath="$PROJECT_DIR$/shardingspheres-jdbc/shardingspheres-jdbc.iml" />
+    </modules>
+  </component>
+</project>
